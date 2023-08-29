@@ -1,4 +1,4 @@
-# Streetz-Talk_Nodejs Backend
+#  Backend Setup
 
 ## Setup Steps:
 `npm install`
